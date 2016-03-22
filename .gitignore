@@ -5,6 +5,6 @@
 !*/cache/index.html
 !*/cache/.htaccess
 
-*/config/config.php
-*/config/database.php
-*/config/ldap_auth.php
+samplechat/development/config/config.php
+samplechat/development/config/database.php
+samplechat/development/config/ldap_auth.php
